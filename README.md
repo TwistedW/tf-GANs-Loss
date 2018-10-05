@@ -12,4 +12,4 @@
 **ACGAN**| [Arxiv](https://arxiv.org/abs/1610.09585) | <img src = 'images/equations/ACGAN.png' height = '70px'>
 **EBGAN**| [Arxiv](https://arxiv.org/abs/1609.03126) | <img src = 'images/equations/EBGAN.png' height = '70px'>
 **BEGAN**| [Arxiv](https://arxiv.org/abs/1703.10717) | <img src = 'images/equations/BEGAN.png' height = '105px'> 
-**Hinge Loss**| [Arxiv](https://arxiv.org/abs/1705.02894) | <img src = 'images/equations/Hinge.png' height = '70px'>
+**Hinge Loss**| [Arxiv](https://arxiv.org/abs/1705.02894) | <img src = 'images/equations/Hinge.png' height = '85px'>
